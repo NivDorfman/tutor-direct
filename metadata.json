@@ -1,0 +1,6 @@
+{
+  "name": "Private Tutor Finder",
+  "description": "An interactive Hebrew application for finding, sorting, and booking private tutors based on ratings, subjects, and price per hour.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
